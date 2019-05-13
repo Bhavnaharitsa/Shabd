@@ -58,6 +58,8 @@ It is advisable to clone only the development branch using the following command
      
 #### Rules for contribution
 * Raise an issue before making PR.
+* follow the PR guidelines
+* Only single commit should be there.
 * Make all the PR's in development branch.
 * Contact the mentors at Gitter or Slack channel before contributing.
 
